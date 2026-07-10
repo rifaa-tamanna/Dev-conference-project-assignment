@@ -2,10 +2,6 @@
 
 A modern and responsive conference landing page built with HTML and CSS.
 
-## Live Link
-
-https://your-live-link.com
-
 ## Features
 
 - Responsive Design
