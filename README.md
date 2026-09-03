@@ -193,7 +193,8 @@ More advanced responsive interactions
 ---
 
 💻 Repository
-GitHub Repository: https://github.com/rifaa-tamanna/Dev-conference-project-assignment
+GitHub Repository: <br>
+https://github.com/rifaa-tamanna/Dev-conference-project-assignment
 
 ---
 
@@ -202,7 +203,7 @@ Rifa Tamanna
 
 Aspiring Full Stack Web Developer currently learning and building real-world projects to improve my development skills.
 
-GitHub: https://github.com/rifaa-tamanna
+GitHub: https://github.com/rifaa-tamanna <br>
 LinkedIn: https://www.linkedin.com/in/rifaa-tamanna/
 
 ---
