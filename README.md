@@ -122,23 +122,23 @@ Dev-conference-project-assignment/ <br>
 ├── index.html<br>
 │<br>
 ├── CSS/<br>
-│   └── style.css
-│
-├── photos/
-│   ├── logo.png
-│   ├── footer-logo.png
-│   ├── andrej.png
-│   ├── demis.png
-│   ├── gary.png
-│   ├── mustafa.png
-│   └── ...
-│
-├── how/
-│   └── ...
-│
-├── prompt.md
-│
-└── README.md
+│   └── style.css <br>
+│ <br>
+├── photos/ <br>
+│   ├── logo.png <br>
+│   ├── footer-logo.png <br>
+│   ├── andrej.png <br>
+│   ├── demis.png <br>
+│   ├── gary.png <br>
+│   ├── mustafa.png <br>
+│   └── ... <br>
+│ <br>
+├── how/ <br>
+│   └── ... <br>
+│ <br>
+├── prompt.md <br>
+│ <br>
+└── README.md <br>
 
 ---
 
