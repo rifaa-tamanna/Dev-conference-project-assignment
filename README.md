@@ -116,12 +116,12 @@ For a better development experience, you can also use the Live Server extension 
 
 ---
 
-📁 Project Directory Structure
-Dev-conference-project-assignment/
-│
-├── index.html
-│
-├── CSS/
+📁 Project Directory Structure <br>
+Dev-conference-project-assignment/ <br>
+│<br>
+├── index.html<br>
+│<br>
+├── CSS/<br>
 │   └── style.css
 │
 ├── photos/
