@@ -6,7 +6,8 @@ A modern and responsive developer conference landing page built with HTML5 and C
 
 ## 🔗 Live Demo
 
-- **DevConf 2026 Website:** https://rifaa-tamanna.github.io/Dev-conference-project-assignment
+- **DevConf 2026 Website:** <br>
+- https://rifaa-tamanna.github.io/Dev-conference-project-assignment
 ---
 
 ## ✨ Features
@@ -100,8 +101,6 @@ No package installation or dependency management is required.
 No installation or build process is required to run this project locally.
 
 ### Clone the Repository
-
-bash
 git clone https://github.com/rifaa-tamanna/Dev-conference-project-assignment.git
 
 ---
